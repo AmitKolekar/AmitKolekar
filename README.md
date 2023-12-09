@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2018<br>📚 I'm currently learning AWS<br>🎯 Goals: DevOps Engineer<br>.</p>
+<p align="left">✨ Creating bugs since 2018<br>📚 I'm currently learning AWS<br>🎯 Goals: DevOps Engineer<br></p>
 
 ###
 
